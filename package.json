@@ -42,5 +42,18 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://shaantanu9.github.io/redux_thunk_basic_with_proper_folder_Structure"
+  "homepage": "https://shaantanu9.github.io/redux_thunk_basic_with_proper_folder_Structure",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaantanu9/redux_thunk_basic_with_proper_folder_Structure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaantanu9/redux_thunk_basic_with_proper_folder_Structure/issues"
+  }
 }
